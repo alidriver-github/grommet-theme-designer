@@ -4673,9 +4673,10 @@ grommet-theme-hpe@^0.4.2:
   resolved "https://registry.yarnpkg.com/grommet-theme-hpe/-/grommet-theme-hpe-0.4.2.tgz#f2c4d02341056a34d32f1fbc4f843b523912dce5"
   integrity sha512-3GlnYNBM2DM90hgzrSedm40BsxIJaN6eDr5Ezeyqpp4SvwQnXpaEzlWkXiokTsgDlMhtNI/WoxWG9l/l9+y9oQ==
 
-"grommet@https://github.com/grommet/grommet/tarball/stable":
-  version "2.8.0"
-  resolved "https://github.com/grommet/grommet/tarball/stable#ce526f0cffd916ca8e2d41c0832b4e13f8d2c854"
+grommet@2.8.1:
+  version "2.8.1"
+  resolved "https://registry.yarnpkg.com/grommet/-/grommet-2.8.1.tgz#0c6e00e76572ef6241cb01f76bace224b618bc4b"
+  integrity sha512-cDAaESfc/L2AFcxyXw2loUKMEdhJBvBrdJSLoJuwWry+kspqvxOGYbThS1rNgTOuGL4TlCZ5WkR7cA8GxLwqDA==
   dependencies:
     "@testing-library/dom" "^6.1.0"
     "@testing-library/jest-dom" "^4.2.4"
@@ -6464,9 +6465,9 @@ merge-anything@^2.2.4:
     is-what "^3.3.1"
 
 merge-deep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.2.tgz#f39fa100a4f1bd34ff29f7d2bf4508fbb8d83ad2"
-  integrity sha512-T7qC8kg4Zoti1cFd8Cr0M+qaZfOwjlPDEdZIIPPB2JZctjaPM4fX+i7HOId69tAti2fvO6X5ldfYUONDODsrkA==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.3.tgz#1a2b2ae926da8b2ae93a0ac15d90cd1922766003"
+  integrity sha512-qtmzAS6t6grwEkNrunqTBdn0qKwFgNWvlxUbAV8es9M7Ot1EbyApytCnvE0jALPa46ZpKDUo527kKiaWplmlFA==
   dependencies:
     arr-union "^3.1.0"
     clone-deep "^0.2.4"
