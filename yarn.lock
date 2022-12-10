@@ -4673,9 +4673,10 @@ grommet-theme-hpe@^0.4.2:
   resolved "https://registry.yarnpkg.com/grommet-theme-hpe/-/grommet-theme-hpe-0.4.2.tgz#f2c4d02341056a34d32f1fbc4f843b523912dce5"
   integrity sha512-3GlnYNBM2DM90hgzrSedm40BsxIJaN6eDr5Ezeyqpp4SvwQnXpaEzlWkXiokTsgDlMhtNI/WoxWG9l/l9+y9oQ==
 
-"grommet@https://github.com/grommet/grommet/tarball/stable":
-  version "2.8.0"
-  resolved "https://github.com/grommet/grommet/tarball/stable#ce526f0cffd916ca8e2d41c0832b4e13f8d2c854"
+grommet@2.8.1:
+  version "2.8.1"
+  resolved "https://registry.yarnpkg.com/grommet/-/grommet-2.8.1.tgz#0c6e00e76572ef6241cb01f76bace224b618bc4b"
+  integrity sha512-cDAaESfc/L2AFcxyXw2loUKMEdhJBvBrdJSLoJuwWry+kspqvxOGYbThS1rNgTOuGL4TlCZ5WkR7cA8GxLwqDA==
   dependencies:
     "@testing-library/dom" "^6.1.0"
     "@testing-library/jest-dom" "^4.2.4"
@@ -8392,9 +8393,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
